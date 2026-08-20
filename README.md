@@ -12,10 +12,6 @@ in a scanned PDF — and into the *clear*. It combines local OCR (Tesseract), an
 automatic image-origin classifier, structured secret detectors, and an optional
 Vision-LLM fallback for the hard, real-world cases.
 
-> Named after the character **Sciel** from *Clair Obscur: Expedition 33*
-> (Sandfall Interactive), whose Sun + Moon → Twilight mechanic mirrors the tool:
-> bringing what is hidden into the light.
-
 ---
 
 ## Features
