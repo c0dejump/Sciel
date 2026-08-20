@@ -1,0 +1,6 @@
+pytesseract>=0.3.10
+opencv-python-headless>=4.8
+PyMuPDF>=1.23
+Pillow>=10.0
+detect-secrets>=1.5
+numpy
